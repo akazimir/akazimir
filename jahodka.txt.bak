@@ -2,8 +2,11 @@ Task 4:
 Zmena na serveri
 Status 
 Fetch
-kde bolo tam bolo
+<<<<<<< HEAD
 Jahodka malicka
+=======
+kde bolo tam bolo
+>>>>>>> 7a94e3f8189a4dfaec252c9f6848cad514a1e72c
 Status - git status
 Pull
 
