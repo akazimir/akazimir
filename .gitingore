@@ -3,4 +3,8 @@
 output
 temp
 ./dir/mydir/*
+<<<<<<< HEAD
 *temporary*.*
+=======
+*temporary*.*
+>>>>>>> d32eec57290758f317ce347432306aa861816266
