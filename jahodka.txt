@@ -4,7 +4,8 @@ Status
 Fetch
 Status - git status
 Pull
-medzitym kontrolovat stav suboru lokalne
+
+git status
 
 teraz robim dalsi commit
 zmena klucov
