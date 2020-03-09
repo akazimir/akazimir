@@ -3,7 +3,7 @@ Zmena na serveri
 Status 
 Fetch
 Status
-Pull
+Pull - git pull
 
 git status
 
