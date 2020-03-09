@@ -5,3 +5,8 @@ Fetch
 Status
 Pull
 medzitym kontrolovat stav suboru lokalne
+
+DONE
+
+
+git commit -m "message"
