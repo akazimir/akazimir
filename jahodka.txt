@@ -2,7 +2,7 @@ Task 4:
 Zmena na serveri
 Status 
 Fetch
-
+Jahodka malicka
 Status - git status
 Pull
 
