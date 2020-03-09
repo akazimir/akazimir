@@ -2,16 +2,13 @@ Task 4:
 Zmena na serveri
 Status 
 Fetch
-
+kde bolo tam bolo
 Status - git status
 Pull
 
 Status
 Pull - git pull
-
-
 git 
-
 teraz robim dalsi commit
 zmena klucov
 git commit -m "message"
