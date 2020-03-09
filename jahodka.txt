@@ -5,7 +5,7 @@ Fetch
 Status - git status
 Pull
 
-git status
+git 
 
 teraz robim dalsi commit
 zmena klucov
