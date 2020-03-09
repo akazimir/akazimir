@@ -2,8 +2,13 @@ Task 4:
 Zmena na serveri
 Status 
 Fetch
+
 Status - git status
 Pull
+
+Status
+Pull - git pull
+
 
 git 
 
