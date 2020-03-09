@@ -6,6 +6,6 @@ Status
 Pull
 medzitym kontrolovat stav suboru lokalne
 
-
+teraz robim dalsi commint
 
 git commit -m "message"
